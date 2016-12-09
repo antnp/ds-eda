@@ -1,2 +1,3 @@
 # ds-eda
-Coursera Data Science EDA
+Coursera Data Science Specialization
+Exploratory Data Analysis 
