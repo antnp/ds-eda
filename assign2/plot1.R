@@ -25,6 +25,6 @@ png('plot1.png')
 barplot(by_year_emission$sum_emission, 
         names.arg=by_year_emission$year, 
         xlab="years", 
-        ylab=expression('total PM'[2.5]*' emission in kilotons'),
+        ylab=expression('total PM'[2.5]*' emission (kilotons)'),
         main=expression('Total PM'[2.5]*' emissions in select years'))
 dev.off()
